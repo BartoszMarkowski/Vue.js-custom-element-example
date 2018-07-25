@@ -12,6 +12,8 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run build-component
 ```
 
+### Demo
+https://jsfiddle.net/phbtncze/3/show  
